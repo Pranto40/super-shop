@@ -1,0 +1,41 @@
+.home {
+    padding: 2rem 9%;
+}
+.row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    height: 60vh;
+}
+.row .content {
+    flex: 1 1 42rem;
+}
+.row .content h1 {
+    font-size: 6rem;
+}
+.row .content p{
+    font-size: 2rem;
+}
+.btn {
+    display: inline-block;
+    padding: 0.9rem 1.5rem;
+    border-radius: 5px;
+    color: #ae7373;
+    background: none;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    margin-top: 1rem;
+    font-size: 1.7rem;
+    transition: 0.5s;
+}
+.btn:hover {
+    background-color: #53ade4;
+    color: #fbffff;
+}
+.row .images {
+    flex: 1 1 42rem;
+}
+.row .images img {
+    width: 100%;
+}
