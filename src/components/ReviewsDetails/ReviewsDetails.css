@@ -1,0 +1,11 @@
+.reviews-details {
+    background: #fff3f3;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+.reviews-details:hover {
+    box-shadow: 0px 0px 40px rgb(0 0 0 / 15%);
+}

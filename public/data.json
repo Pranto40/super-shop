@@ -1,38 +1,38 @@
 [
-    {
-        "month": "Mar",
-        "investment": 100000,
-        "sell": 241,
-        "revenue": 10401
+    {   "img": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_481292845_77896.jpg",
+        "name": "Alom Hossain",
+        "comment": "I love these group of people. Heather was my agent and working with her has made my first time buying a home",
+        "rating": "5/5",
+        "id": 1
     },
-    {
-        "month": "Apr",
-        "investment": 200000,
-        "sell": 423,
-        "revenue": 24500
+    {   "img": "https://www.theportlandclinic.com/wp-content/uploads/2019/07/Person-Curtis_4x5-e1564616444404-300x300.jpg",
+        "name": "Abdul Khalek",
+        "comment": "Wouldn't recommend. the quality is an par with cheaper competitors. This was so bad that i tried to call.",
+        "rating": "",
+        "id": 2
     },
-    {
-        "month": "May",
-        "investment": 500000,
-        "sell": 726,
-        "revenue": 67010
+    {   "img": "https://imageio.forbes.com/specials-images/imageserve/61688aa1d4a8658c3f4d8640/Antonio-Juliano/0x0.jpg?fit=bounds&format=jpg&width=960",
+        "name": "Azizul Hakim",
+        "comment": "we scheduled a free consultation for the replacedment of a dor and possible two windows for we got a really great enail about.",
+        "rating": "5/5",
+        "id": 3
     },
-    {
-        "month": "Jun",
-        "investment": 500000,
-        "sell": 529,
-        "revenue": 40405
+    {   "img": "https://cdn.now.howstuffworks.com/media-content/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
+        "name": "Emran Hossain",
+        "comment": "why ot chose them that was very encouraging, Everything went well with the consultation no high perssur",
+        "rating": "5/5",
+        "id": 4
     },
-    {
-        "month": "Jul",
-        "investment": 600000,
-        "sell": 601,
-        "revenue": 50900
+    {   "img": "https://focusforensics.com/wp-content/uploads/staff-clayton_mccall-square.jpg",
+        "name": "jenna Halm",
+        "comment": "The company when i got my order. the customer service rep i spoke to only answered when i called.",
+        "rating": "5/5",
+        "id": 5
     },
-    {
-        "month": "Aug",
-        "investment": 700000,
-        "sell": 670,
-        "revenue": 61000
+    {   "img": "https://ca-times.brightspotcdn.com/dims4/default/0ea7d59/2147483647/strip/true/crop/3000x4496+0+0/resize/840x1259!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc9%2F8a%2F50e7258f436ab00dad0e61cb7327%2Fheadshot-destano-credit-amy-vitale.jpg",
+        "name": "Johnny",
+        "comment": "She truly cares about what you need and she went above and beyond to meke sure I had all the information",
+        "rating": "5/5",
+        "id": 6
     }
 ]

@@ -39,3 +39,10 @@
 .row .images img {
     width: 100%;
 }
+.customer-reviews{
+    text-align: center;
+}
+.customer-reviews h3 {
+    font-size: 4rem;
+    margin: 3rem 3rem;
+}

@@ -1,6 +1,8 @@
 import React from 'react';
 import './Home.css';
 import img from '../images/laptop.jpg'
+import Reviews from '../Reviews/Reviews';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
     return (
@@ -14,6 +16,12 @@ const Home = () => {
                <div className="images">
                    <img src={img} alt="" />
                </div>
+           </div>
+
+           <div className='customer-reviews'>
+               <h3>Customer Reviews</h3>
+               <Reviews></Reviews>
+               <Link to='/reviews' className='btn'>See All Reviews</Link>
            </div>
         </div>
     );
