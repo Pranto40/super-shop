@@ -9,8 +9,8 @@ const Home = () => {
         <div className='home'>
            <div className="row">
                <div className="content">
-                   <h1>This is my laptop</h1>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, quod. Impedit quisquam perspiciatis dolores earum, velit cupiditate a voluptatibus expedita ipsam accusantium eum voluptates asperiores, non ipsum iure aut maiores.</p>
+                   <h1>Lenovo IdeaPad</h1>
+                   <p>The Lenovo IdeaPad Slim 3i 15IGL comes with Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz) and 4GB DDR4 2400MHz RAM. It also comes with a 1TB 5400rpm 2.5" HDD to store all your important data. It is integrated with Integrated Intel UHD Graphics 600 and it has a 15.6″ HD (1366×768) display with TN panel and 220nits Anti-glare screen</p>
                    <button className='btn'>Live demo</button>
                </div>
                <div className="images">
