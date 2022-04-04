@@ -1,0 +1,24 @@
+.deshboard {
+    padding: 1rem 7%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.deshboard-content {
+    flex: 1 1 36rem;
+    margin-top: 3rem;
+}
+.deshboard-content h1 {
+    text-align: center;
+    color: var(--blue);
+    font-size: 3.5rem;
+    font-weight: normal;
+    padding: 1rem;
+}
+tspan {
+    font-size: 1.5rem;
+}
+.recharts-legend-item-text {
+    font-size: 1.8rem;
+}
