@@ -1,0 +1,22 @@
+.blogs {
+    padding: 2rem 7%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    grid-gap: 3rem;
+    text-align: center;
+}
+.blogs-details {
+    background: #62a2db85;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    color: #181818;
+}
+.blogs-details h1 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+.blogs-details p {
+    font-size: 1.7rem;
+}

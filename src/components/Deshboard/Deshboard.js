@@ -44,6 +44,7 @@ const Deshboard = () => {
     return (
         <div className='deshboard'>
             <div className='deshboard-content'>
+            <h1>Month wish Sell</h1>
             <LineChart width={500} height={400} data={data}>
                 <Line type="monotone" dataKey="sell" stroke="#8884d8" strokeWidth={2} />
                 <XAxis dataKey="month" />
@@ -54,6 +55,7 @@ const Deshboard = () => {
             </div>
             
             <div className='deshboard-content'>
+            <h1>Investment VS Revenue</h1>
                 <AreaChart
                 width={500}
                 height={400}
