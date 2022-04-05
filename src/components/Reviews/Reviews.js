@@ -4,7 +4,7 @@ import ReviewsDetails from '../ReviewsDetails/ReviewsDetails';
 import './Reviews.css'
 
 const Reviews = () => {
-    const [carts, setCarts] = useCart([])
+    const [carts] = useCart([])
     return (
         <div className='reviews'>
             {
